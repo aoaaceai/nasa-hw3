@@ -1,2 +1,2 @@
 # nasa-hw3
-The repository for the docker homework in NASA 23 Spring.
+This repository is stolen without shame from [docker/awesome-compose](https://github.com/docker/awesome-compose).
